@@ -2,7 +2,7 @@
 The code below was the first attempt to recreating the challenge's keygen, which I did through transcribing the c code line by line.
 Although it doesn't generate correct keygens, sifting through the code helped uncover what the keygen is actually doing.
 
-A simplified, functional keygen is provided: 'keygen.cpp'.
+A simplified, functional keygen is provided: 'Keygen.cpp'.
 */
 
 #include <iostream>
