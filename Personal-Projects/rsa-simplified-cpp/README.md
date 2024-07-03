@@ -94,9 +94,6 @@ Notes
 - The `-i` tag will give you detailed information about each step of the RSA algorithm.
 - This program will only work correctly with hexadecimal values that are 4 digits or less, and the value must be less than `n`.
 
-## License
-
-This project is licensed under the MIT License.
 
 ## Disclaimer
 
