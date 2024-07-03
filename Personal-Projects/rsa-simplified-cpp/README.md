@@ -1,4 +1,3 @@
-Here's a draft for your README:
 
 ---
 
@@ -81,6 +80,15 @@ Run the executable with the following syntax:
 - `<hex value>`: A hexadecimal value representing the message to encrypt. The value must be 4 digits or less and less than `n`.
 - `-i`: (Optional) Provides additional information about how the RSA algorithm works.
 
+## Enhanced Output with -i
+When you run the program with the -i flag will illustrate the RSA encryption and decryption mechanism. 
+
+![-i example image](https://github.com/AdithyaaSivamal/Cyber-Security-Portfolio/assets/91487335/e60529d5-52f2-461c-a7ec-d166e567af3d)
+
+
+
+Notes
+
 ## Notes
 
 - The `-i` tag will give you detailed information about each step of the RSA algorithm.
@@ -95,5 +103,3 @@ This project is licensed under the MIT License.
 This code is for educational purposes only and should never be used for real encryption tasks. It is an oversimplified demonstration of the RSA algorithm.
 
 ---
-
-Feel free to customize it further based on your needs!
